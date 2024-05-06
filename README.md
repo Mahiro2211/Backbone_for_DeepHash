@@ -12,3 +12,5 @@ collections of excellent feature extractor
 
 # ATTENTION
 * use pytorch 2.X to run Hornet
+![image](https://github.com/Mahiro2211/Backbone_for_DeepHash/assets/130811701/d9a4606c-9ca7-4899-97f0-f5a334d25a34)
+
